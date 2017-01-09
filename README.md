@@ -45,9 +45,7 @@ I would like to add my Labs to my Project creation script with some of these fea
 - Same as above but DB entries for the Projects directory.
 
 ## Request For your Dev Server Build Script Feature Ideas
-Please feel free to create an Issue on this repo with any ideas you might have for this build script and new features.
-
-
+Please feel free to use the Project KanBan Board on this GitHub repo here [https://github.com/jasondavis/Windows-Dev-Server-HOSTS-File-Adder-Application/projects/1](https://github.com/jasondavis/Windows-Dev-Server-HOSTS-File-Adder-Application/projects/1 "GitHub KanBan Project Boards")  with any ideas you might have for this build script and new feature ideas and requests.
 
 
 
