@@ -13,12 +13,13 @@ Simply call the application `set-dev-server-domain-hosts-file-entry.exe` followe
     // HOSTS file C:\Windows\System32\drivers\etc\HOSTS
     @exec('set-dev-server-domain-hosts-file-entry.exe dev-project.dev');
 
-## Whats included
+## Whats Included
 
 - The WIndows EXE Application `set-dev-server-domain-hosts-file-entry.exe`
 - A `demo.php` PHP test file to show usage in PHP
 - A shortcut to view the HOSTS file in WIndows 7 and possibbly other WIndows versions.
 - This `README.md` file to explain the library and show how to use it.
+- `Windows-Dev-Server-HOSTS-FIle-PHP-Updater-Library.zip` ZIP archive containing all the files in this library.
 
 
 
